@@ -6,38 +6,24 @@ A little sneak pic
 ![Web-shot](https://user-images.githubusercontent.com/75117366/138034308-8754b04b-c2f2-41bc-b2ab-83f78dd198bc.png)
 
 ## Author
-[@ClassyComputer111](https://www.twitter.com/koladechris)
+[@ClassyComputer111](https://github.com/ClassyComputer111)
 
-## Github repo
-
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
 
 ## Tools Used
 
 Below are are list of tools used, and the precise things they were used for:
 
-- [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
-- [Drawkit](https://www.drawkit.io/) for Jane Doe illustration
-- [Icon8](https://icons8.com/) for animated icons and skills icons
-- [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
-- [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
+- [Ion Icons](https://ionic.io/ionicons) 
+- [Drawkit](https://www.drawkit.io/)
+- [Icon8](https://icons8.com/)
+- [Animate CSS](https://animate.style/) 
+- [Formspree](https://formspree.io/) 
 
 ## Folder Structure
 
-The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
-
+The index.html and readme files are in the root folder.
 The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
 
-## Customization Guide
-
-The various sections in the HTML and CSS are well commented, so feel free to change whatever doesn't suit you need.
-
-The JavaScript functions are commented too, so you will know what the functions and selections do.
-
-I used Ion Icons and Icons8 for the icons, but feel free to use fontawesome or any other icon library you want.
-
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
-
-In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
-
+#### I have got all the instructions from [this](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/) website which I have seen in a Google ad and from there I go the github repositories link.
+Taken all the repositories from[Kolade Christopher] https://github.com/Ksound22
 
