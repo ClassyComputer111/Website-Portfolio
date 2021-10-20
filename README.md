@@ -2,23 +2,15 @@
 
 A portfolio website template for campers
 
-![jane-doe](jane-shot.png)
+A little sneak pic
+![Web-shot](https://user-images.githubusercontent.com/75117366/138034308-8754b04b-c2f2-41bc-b2ab-83f78dd198bc.png)
 
 ## Author
-
-[@koladechris](https://www.twitter.com/koladechris)
+[@ClassyComputer111](https://www.twitter.com/koladechris)
 
 ## Github repo
 
 This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
-
-## Sample Website
-
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
-
-## Tech Stack
-
-**Client:** HTML, CSS, Vanilla JavaSCript
 
 ## Tools Used
 
@@ -48,10 +40,4 @@ For the form submission, formspree was used. You can get a hands-on tutorial on 
 
 In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
 
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
 
-## Acknowledgements
-
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
